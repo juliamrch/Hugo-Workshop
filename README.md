@@ -1,5 +1,7 @@
 # Créez et personnalisez votre site avec Hugo et Go en 1h
 
+![gopher logo](assets/gopher.svg)
+
 Durée totale : 1 heure
 
 Objectif de l'atelier :
