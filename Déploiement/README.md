@@ -1,6 +1,8 @@
 
 # Déployer son site Hugo sur Clever Cloud
 
+![Clever Cloud logo](../assets/clever-cool.png)
+
 **Avant tout :** Accepter l'invitation à rejoindre l'organisation envoyée par mail
 
 ## 1. Depuis la Console Clever Cloud
