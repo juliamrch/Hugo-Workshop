@@ -8,7 +8,7 @@
 ## 1. Depuis la Console Clever Cloud
 
 1. [Ajouter une clé SSH à son compte](https://www.clever-cloud.com/doc/getting-started/ssh-keys/)
-2. Cliquer sur l'oganisation **Atelier Hugo**
+2. Cliquer sur l'organisation **Atelier Hugo**
 3. Déclarer une app statique avec les variables d'environnement suivantes :
 
 ```shell
