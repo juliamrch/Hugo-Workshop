@@ -36,7 +36,7 @@ L'objectif de cet atelier est de permettre aux participants de créer leur propr
   <details><summary>macOS</summary>
 
   1. Installez [Homebrew](https://brew.sh/index_fr) sur votre machine si vous ne l'avez pas déjà : `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-  2. Installez Go avec la commande `brew istall go`
+  2. Installez Go avec la commande `brew install go`
   3. Vérifiez l'installation avec la commande `go version`
 
   </details>
